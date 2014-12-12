@@ -9,7 +9,7 @@ void day_5(void);
 int main(void)
 {
 int n;
-printf("\t\tClass routine of the ICT 1st batch\n\n");
+printf("\t\tClass routine of the ICT 2nd batch\n\n");
 printf("\t\tyear-1 ********************* Term-2\n\n");
 printf("\t\t\tchoice 1 for sunday\n");
 printf("\t\t\tchoice 2 for monday\n");
